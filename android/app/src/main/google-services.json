@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548969846640",
+    "project_id": "baseapp-811bc",
+    "storage_bucket": "baseapp-811bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548969846640:android:f84beaa1599989464ce1b5",
+        "android_client_info": {
+          "package_name": "com.nineplus.baseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9V_zVVPOQEAgKbuezuwqYrXk23nuZCuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
